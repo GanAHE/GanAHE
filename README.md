@@ -35,17 +35,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GanAHE&repo=GNSSAMS&theme=buefy" />
 </a>
 
-<!--
-<details>
-<summary>More Repositories ...</summary>
-
-
 <a href="https://github.com/GanAHE/baiduNetdisk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GanAHE&repo=baiduNetdisk&theme=buefy" />
 </a>
-
-<br />
-<br />
-
-</details>
--->
