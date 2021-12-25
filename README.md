@@ -14,7 +14,7 @@
 
 <!--<img alt="Top langs" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/top-langs/?username=mashirozx&layout=compact&langs_count=8&hide=smali,html,smarty,css,haml" width="500">-->
 
-<!--<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">-->
+<!--<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=GanAHE&layout=compact" width="500">-->
 
 <img alt="Genshin game card" src="https://genshin-card.getloli.com/16-50/77037493.png" width="500">
 
