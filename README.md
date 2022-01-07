@@ -1,6 +1,5 @@
 ### Hi there, this is GanAHE👋
 
-![image-20211222220114259](README.assets/image-20211222220114259.png)
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=ganahe&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
 
